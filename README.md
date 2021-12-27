@@ -1,6 +1,6 @@
 # go-build-directive-lint
 
-A simple go lint to reject files with the old build directive syntax, using `go/analysis`.
+A simple Go linter to reject files with the old build directive syntax, using [`go/analysis`](https://pkg.go.dev/golang.org/x/tools/go/analysis).
 
 ## Motivation
 
