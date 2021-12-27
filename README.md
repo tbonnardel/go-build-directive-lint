@@ -1,4 +1,4 @@
-# `go-build-directive-lint`
+# go-build-directive-lint
 
 A simple go lint to reject files with the old build directive syntax, using `go/analysis`.
 
